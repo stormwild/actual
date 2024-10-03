@@ -35,7 +35,7 @@
     "@jlongster/sentry-metrics-actual": "^0.0.10",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.4.2",
     "@reach/listbox": "^0.11.2",
-    "@sentry/browser": "6.7.1",
+    "@sentry/browser": "8.33.0",
     "@svgr/webpack": "2.4.1",
     "add": "^2.0.6",
     "babel-eslint": "9.0.0",
